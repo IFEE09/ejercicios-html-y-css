@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    transition: 0.3s;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.header-1 {
+    color: red;
+    background-color: black;
+}
+
+.header-1:hover {
+    color: green;
+    font-size: 35px;
+    cursor: pointer;
+}
