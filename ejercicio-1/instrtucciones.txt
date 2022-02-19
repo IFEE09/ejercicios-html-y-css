@@ -1,0 +1,2 @@
+genera una reproducción de la imagen jpg con codigo html y css
+
